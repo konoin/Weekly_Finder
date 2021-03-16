@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Weekly_Finder
+//  WeaklyFinder
 //
-//  Created by Никита Полыко on 10/11/20.
+//  Created by Никита Полыко on 16.03.21.
 //
 
 import UIKit
